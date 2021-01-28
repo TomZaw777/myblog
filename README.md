@@ -17,4 +17,4 @@ This app was developed in Visual Studio Code, using technologies:
 * Go to http://localhost:3000/home in your browser
 * Login with test account: username - artem.hunter777@wp.pl, password - testpassword123
 # Screenshots
-<img src="images/screen1.jpg" width="200"><img src="images/screen2.jpg" width="200"><img src="images/screen3.jpg" width="200">
+<img src="myblog/images/screen1.jpg" width="200"><img src="myblog/images/screen2.jpg" width="200"><img src="myblog/images/screen3.jpg" width="200">
